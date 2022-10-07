@@ -7,3 +7,5 @@ Hallo</br>
  Terimakasih
  
  ![home.png](home.jpeg)
+
+ Personal web: https://personalwebsitepuputfatmawati.netlify.app/
